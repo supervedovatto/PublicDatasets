@@ -1,4 +1,19 @@
-\begin{numerical}{MREC15S10E02}
-Reconsidere a decisão da garantia estendida do Exemplo 15.8. Suponha que as probabilidades dos estados de maior reparo, de menor reparo e de nenhum reparo sejam mudadas para 0,\(2 ; 0,4\) e 0,4 , respectivamente. Determine a decisão estabelecida, baseando-se no critério minimáx, de mais provável e de custo esperado.\\
-
-\end{numerical}
+y,x
+4.4,0.19
+6.6,0.15
+9.7,0.57
+10.6,0.70
+10.8,0.67
+10.9,0.63
+11.8,0.47
+12.1,0.70
+14.3,0.60
+14.7,0.78
+15.0,0.81
+17.3,0.78
+19.2,0.69
+23.1,1.30
+27.4,1.05
+27.7,1.06
+31.8,1.74
+39.5,1.62
